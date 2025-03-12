@@ -1,0 +1,17 @@
+com/easychat/entity/FriendRequest.class
+com/easychat/repository/MessageRepository.class
+com/easychat/entity/User.class
+com/easychat/service/MessageService.class
+com/easychat/repository/UserRepository.class
+com/easychat/EasyChatApplication.class
+com/easychat/websocket/ChatWebSocketHandler.class
+com/easychat/controller/MessageController.class
+com/easychat/config/WebSocketConfig.class
+com/easychat/entity/Message.class
+com/easychat/service/UserService.class
+com/easychat/repository/FriendRepository.class
+com/easychat/entity/Friend.class
+com/easychat/controller/FriendController.class
+com/easychat/controller/UserController.class
+com/easychat/service/FriendService.class
+com/easychat/repository/FriendRequestRepository.class
